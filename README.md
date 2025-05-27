@@ -4,3 +4,7 @@ My goal for this project is to practice my machine learning skills and look for 
 
 
 My first intuition is to look at the data, plot things out and get some ideas about which parts of data will be best predicting factors for sale price. I am working in Jupyter Notebook.
+
+After examining data and experimenting with feature engineering, I decided to run data through scikit-learn's RandomForestRegression model and find 20 best contributing features.
+
+Now my idea is to engineer more features with high correlation to Sale Price.
